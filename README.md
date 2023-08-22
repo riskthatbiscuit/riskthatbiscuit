@@ -26,16 +26,6 @@ Hey there! Thanks for dropping by. 🌟 I'm excited to welcome you to my GitHub 
 
 2.  **JavaScript Quiz** Quiz game 📈
 
-## Crafting the Future: GitHub Goals
-
-🌱 Here's the roadmap I've set for my GitHub journey:
-
-1. **Innovative Blends:** I'm want to build my projects that marry financial wisdom with the art of coding, bringing both worlds closer than ever before.
-
-2. **Open Source Contributions:** Collaboration is key to evolution. Expect me to sprinkle financial insights into open-source projects, nurturing the community.
-
-3. **Lifelong Learning:** My GitHub is a treasure trove of learning. I'm diving into diverse projects, gaining fresh perspectives, and riding the tech wave.
-
 ## Let's Connect and Collaborate!
 
 💬 Eager to chat about finance, coding, or even your favorite hiking trails? Feel free to reach out right here on GitHub or connect with me on [LinkedIn](your LinkedIn profile link).
