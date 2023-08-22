@@ -6,12 +6,6 @@ Hey there! Thanks for dropping by. 🌟 I'm excited to welcome you to my GitHub 
 
 🌏 A globetrotter in the realm of finance, I've treaded the financial landscapes of Australia, Fiji, Hong Kong, London, and now the dazzling streets of New York City. 🌆 Armed with ten years of experience in financial risk management - speicialising in Credit Risk, I've fine-tuned my analytical skills and developed a unique perspective on managing uncertainties.
 
-## Igniting Passion: What Sparks My Enthusiasm?
-
-📊 **The Art of Numbers:** I'm a virtuoso when it comes to translating numbers into meaningful insights. Financial risk management has been my canvas, and I've painted precision with every formula.
-
-💻 **Coding Alchemist:** Amidst crafting risk models, I found myself spellbound by the elegance of code. It started as a curiosity, blossomed into automation, and now it's an inseparable part of my journey.
-
 ## The Harmonious Blend: Where Finance Meets Code
 
 💼 My focus is a fusion: marrying the intricacies of financial acumen with the boundless possibilities of software engineering.
