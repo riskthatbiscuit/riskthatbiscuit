@@ -4,7 +4,7 @@ Hey there! Thanks for dropping by. 🌟 I'm excited to welcome you to my GitHub 
 
 ## Unveiling the Enigma: Who Am I?
 
-🌏 A globetrotter in the realm of finance, I've treaded the financial landscapes of Australia, Fiji, Hong Kong, London, and now the dazzling streets of New York City. 🌆 Armed with ten years of experience in financial risk management, I've fine-tuned my analytical skills and developed a unique perspective on managing uncertainties.
+🌏 A globetrotter in the realm of finance, I've treaded the financial landscapes of Australia, Fiji, Hong Kong, London, and now the dazzling streets of New York City. 🌆 Armed with ten years of experience in financial risk management - speicialising in Credit Risk, I've fine-tuned my analytical skills and developed a unique perspective on managing uncertainties.
 
 ## Igniting Passion: What Sparks My Enthusiasm?
 
