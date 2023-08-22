@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Risk+that+Biscuit!)](https://github.com/riskthatbiscuit)
-
 Hey there! Thanks for dropping by. 🌟 I'm excited to welcome you to my GitHub repository, where finance, code, and creativity converge into a symphony of innovation. Let's embark on a journey that fuses my decade-long financial risk management expertise with the thrill of software engineering. Buckle up, because we're headed for an exhilarating ride! 🚀
 
 ## Unveiling the Enigma: Who Am I?
