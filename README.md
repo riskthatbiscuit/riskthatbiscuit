@@ -4,7 +4,7 @@ Hello and thanks for stopping by. This is my GitHub repository, where I'm sharin
 
 I've always had a knack for numbers, and throughout my career, I've dabbled in coding. Recently, I started the Columbia Bootcamp to formalize my skills and make a move into software engineering.
 
-Now, let's delve into the name "Risk that Biscuit." This phrase captures the essence of "risk it for the biscuit," a metaphor for taking calculated chances in the pursuit of greater financial gain. In a landscape often perceived as serious and strategic, there's room for a dash of daring and humor, especially when it comes to making decisions involving money. You can learn more about the origins of this phrase [here](https://english-grammar-lessons.com/risk-it-for-the-biscuit-meaning/).
+Now, let's delve into the name "Risk that Biscuit." My GitHub name tries to capture the essence of ["risk it for the biscuit"](https://english-grammar-lessons.com/risk-it-for-the-biscuit-meaning/), a metaphor for taking calculated chances in the pursuit of greater reward. In a landscape often perceived as serious and strategic, I believe there's room for a bit of dash of daring and humor. You can learn more about the origins of this phrase.
 
 This GitHub space is where I'm focusing on merging my financial insights with the world of coding. You'll find a mix of projects that reflect my interests, including a few that I'm particularly fond of:
 
@@ -17,4 +17,4 @@ I'm here to learn, collaborate, and gradually transition my career. If any of th
 Best regards,
 Casey McGrath
 
-www.linkedin.com/in/caseybmcgrath
+[LinkedIn](www.linkedin.com/in/caseybmcgrath)
