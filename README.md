@@ -1,29 +1,19 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Risk+that+Biscuit!)](https://github.com/riskthatbiscuit)
 
-Hey there! Thanks for dropping by. 🌟 I'm excited to welcome you to my GitHub repository, where finance, code, and creativity converge into a symphony of innovation. Let's embark on a journey that fuses my decade-long financial risk management expertise with the thrill of software engineering. Buckle up, because we're headed for an exhilarating ride! 🚀
+# Welcome to My GitHub Profile
 
-## Unveiling the Enigma: Who Am I?
+Hello and thanks for stopping by. This is my GitHub repository, where I'm sharing my journey in finance and coding. I've got a background in financial risk management, having worked in various cities across the globe like Australia, Hong Kong, London, and currently in NYC.
 
-🌏 A globetrotter in the realm of finance, I've treaded the financial landscapes of Australia, Fiji, Hong Kong, London, and now the dazzling streets of New York City. 🌆 Armed with ten years of experience in financial risk management - speicialising in Credit Risk, I've fine-tuned my analytical skills and developed a unique perspective on managing uncertainties.
+I've always had a knack for numbers, and throughout my career, I've dabbled in coding. Recently, I started the Columbia Bootcamp to formalize my skills and make a move into software engineering.
 
-## The Harmonious Blend: Where Finance Meets Code
+This GitHub space is where I'm focusing on merging my financial insights with the world of coding. You'll find a mix of projects that reflect my interests, including a few that I'm particularly fond of:
 
-💼 My focus is a fusion: marrying the intricacies of financial acumen with the boundless possibilities of software engineering.
+1. **Portfolio Risk Analyzer:** A tool to assess risk in investments.
+2. **Algorithmic Trading Bot:** An experiment in coding meets finance.
+3. **Financial Dashboard:** Visualizing complex financial data in a more digestible way.
 
-💡 **New Horizons:** Recently, I strated transitioning my finance hat for a coding cap and am currently completing the Columbia University Coding Bootcamp. 🎓 This pivotal step marked my formal entry into the world of software engineering and innovation.
+I'm here to learn, collaborate, and gradually transition my career. If any of this resonates with you or you're interested in connecting, feel free to reach out.
 
-## Showcasing My Symphony: Favorite Projects
-
-🌟 Here are a few projects that I hold dear:
-
-1.  **Tech Talent Webpage** A job board for users to search live software engineering roles. 🤖
-
-2.  **JavaScript Quiz** Quiz game 📈
-
-## Let's Connect and Collaborate!
-
-💬 Eager to chat about finance, coding, or even your favorite hiking trails? Feel free to reach out right here on GitHub or connect with me on [LinkedIn](your LinkedIn profile link).
-
-🚀 Together, let's script a saga where finance, technology, and creativity unite to redefine possibilities. Cheers to curiosity and a journey filled with endless growth!
-
-Stay curious and creative,
+Best regards,
+Casey McGrath
+[www.linkedin.com/in/caseybmcgrath]
