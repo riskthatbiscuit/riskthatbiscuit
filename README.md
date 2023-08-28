@@ -10,7 +10,6 @@ This GitHub space is where I'm focusing on merging my financial insights with th
 
 1. **Portfolio Risk Analyzer:** A tool to assess risk in investments.
 2. **Algorithmic Trading Bot:** An experiment in coding meets finance.
-3. **Financial Dashboard:** Visualizing complex financial data in a more digestible way.
 
 I'm here to learn, collaborate, and gradually transition my career. If any of this resonates with you or you're interested in connecting, feel free to reach out.
 
