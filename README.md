@@ -16,4 +16,5 @@ I'm here to learn, collaborate, and gradually transition my career. If any of th
 
 Best regards,
 Casey McGrath
+
 www.linkedin.com/in/caseybmcgrath
