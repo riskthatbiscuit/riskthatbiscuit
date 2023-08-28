@@ -1,6 +1,5 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Risk+that+Biscuit!)](https://github.com/riskthatbiscuit)
-
 # Welcome to My GitHub Profile
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Risk+that+Biscuit!)](https://github.com/riskthatbiscuit)
 
 Hello and thanks for stopping by. This is my GitHub repository, where I'm sharing my journey in finance and coding. I've got a background in financial risk management, having worked in various cities across the globe like Australia, Hong Kong, London, and currently in NYC.
 
